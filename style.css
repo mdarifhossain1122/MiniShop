@@ -79,3 +79,30 @@
     margin-left: 20px;
     letter-spacing: 5px;
 }
+
+/**Customer section**/
+.customer-details img{
+    border-radius: 100%;
+}
+.customer-details h5{
+    border-left: 3px solid skyblue;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.customer-details h4{
+    font-weight: bold;
+}
+.customer-details h1{
+    font-weight: bold;
+    margin-bottom: 30px;
+    font-size: 45px;
+    margin-top: 0px;
+}
+.customer-details p{
+    margin-bottom: 50px;
+    
+}
+.fa-gifts{
+    margin-left: 10px;
+    
+}
