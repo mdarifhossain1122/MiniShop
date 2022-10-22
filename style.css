@@ -57,3 +57,25 @@
     background-color: rgb(198, 188, 188);
     transition: 0.5s;
 }
+
+
+
+/**Month section**/
+.month-details h5{
+    margin-top: 50px;
+    font-size: 16px;
+}
+.month-details h1{
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+.month-details p{
+    font-weight: bold;
+    font-size: 18px;
+}
+.month-details h3{
+    font-size: 20px;
+    margin-left: 20px;
+    letter-spacing: 5px;
+}
