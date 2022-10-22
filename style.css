@@ -106,3 +106,17 @@
     margin-left: 10px;
     
 }
+
+
+/**Footer photo section**/
+.instagram{
+    text-align: center;
+}
+.instagram h1{
+    font-weight: bold;
+    font-size: 40px;
+}
+.instagram p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
