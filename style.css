@@ -120,3 +120,54 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+
+/**Footer section**/
+.ftr-minishop h5{
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+}
+.ftr-minishop p{
+    margin-top: 10px;
+    
+}
+.ftr-minishop i{
+    font-size: 40px;
+    color: white;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.ftr-menu h5{
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+}
+.ftr-menu a{
+    text-decoration: none;
+    color: white;
+    
+}
+.ftr-menu a:hover{
+    color: skyblue;
+}
+.ftr-help h5{
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+}
+.ftr-help a{
+    text-decoration: none;
+    color: white;
+
+}
+.ftr-help a:hover{
+    color: skyblue;
+}
+.ftr-question h5{
+    letter-spacing: 5px;
+    margin-bottom: 20px;
+}
+.copy{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 50px;
+}
